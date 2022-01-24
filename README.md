@@ -1,11 +1,7 @@
-- 👋 Salut, je suis @LeandrenewL
-- 👀 Je suis intéressé par l'infographie
-- 🌱 J'apprends actuellement le HTML et CSS
-- 💞️ Je cherche à collaborer sur la création d'un site web
-- 📫 ont peut me joindre sur Twitter : @Leandre_NewL ou via linkedin : Léandre Bughin
-
-<!---
-LeandrenewL est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
-Vous pouvez cliquer sur le lien Aperçu pour jeter un œil à vos modifications.
---->
+- 👋 Bonjour, je suis Leandre Bughin.
+- 👀 Je suis intéressé par le graphisme et le Web Design.
+- 🌱 J'apprends actuellement le HTML, le CSS et le Java Script.
+- 💞️ Je cherche m'auto formé et améliorer mes compétenses.
+- 🎨 Je suis un artiste, je créer divers logos et autre joyeuseté graphique. Vous pouvez voir mes créations sur Behance : https://www.behance.net/leandrebughin .
+- 📫 Vous pouvez me joindre sur Twitter : https://twitter.com/Leandre_NewL et Linkedin : https://www.linkedin.com/in/l%C3%A9andre-bughin-5816b6131/ .
 
